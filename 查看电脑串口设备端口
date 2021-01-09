@@ -1,4 +1,4 @@
-#需要下载serial.tools这个库，在python3.x也可以运行
+#需要下载serial.tools这个库
 from serial.tools import list_ports
 
 if __name__ == '__main__':
